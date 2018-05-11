@@ -1,3 +1,5 @@
+`npm install --save react-xcontrol`
+
 # xcontrol-logger
 A logger for xcontrol controllers
 
